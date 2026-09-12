@@ -1,4 +1,4 @@
-🧩 Maze Solver — BFS, DFS e A*
+🧩 Maze Solver — BFS, DFS e A* (estrela)
 
 Comparação prática entre três algoritmos clássicos de busca em grafos/espaço de estado — Busca em Largura (BFS), Busca em Profundidade (DFS) e A* (A-estrela) — aplicados à resolução de labirintos representados como uma grade de células livres e obstáculos.
 Projeto desenvolvido em Python + Pygame para a disciplina de Inteligência Artificial (Universidade Federal da Grande Dourados — UFGD).
@@ -28,9 +28,9 @@ Legenda de cores:
 🟩 Início · 🟪 Objetivo · ⬛ Parede · 🟦 Explorado · 🟨 Caminho final
 
 🛠️ Tecnologias
-Python 3.
-Pygame — renderização gráfica e interação.
-Estruturas de dados: deque (fila), lista (pilha) e heapq (fila de prioridade).
+- Python 3
+- Pygame — renderização gráfica e interação.
+- Estruturas de dados: deque (fila), lista (pilha) e heapq (fila de prioridade).
 
 📄 Licença
 Este projeto é de uso acadêmico e está disponível livremente para fins de estudo e referência.
